@@ -1,3 +1,17 @@
+# ----------------------------------------------------------------------------
+#
+# Package             : jackson-core
+# Source Repo         : https://github.com/FasterXML/jackson-core.git
+# Travis Job Link     : https://travis-ci.com/github/santosh653/jackson-annotations
+# Created travis.yml  : No
+# Maintainer          : Santosh Kulkarni <santoshkulkarni70@gmail.com>
+#
+# Script License      : Apache License, Version 2 or later
+#
+# ----------------------------------------------------------------------------
+arch:
+  - amd64
+  - ppc64le
 language: java
 
 # Java 8 for Jackson 3:
